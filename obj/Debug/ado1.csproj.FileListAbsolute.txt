@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\bin\Debug\ado1.exe.config
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\bin\Debug\ado1.exe
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\bin\Debug\ado1.pdb
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\obj\Debug\ado1.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\obj\Debug\ado1.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\obj\Debug\ado1.exe
+C:\Users\Mcintosh\Downloads\ADO_Net\1\ado1\obj\Debug\ado1.pdb
